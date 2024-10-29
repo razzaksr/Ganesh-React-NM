@@ -11,8 +11,8 @@ root.render(
     <h1>Welcome to react development</h1>
     <button className='col-lg-2 col-md-6 col-12 btn btn-outline-primary'>alpha</button>
     <button className='btn btn-outline-danger'>beta</button>
-    <button className='btn btn-outline-success'>cosmo</button>
-    <button className='btn btn-outline-dark'>delta</button>
+    {/* <button className='btn btn-outline-success'>cosmo</button> */}
+    {/* <button className='btn btn-outline-dark'>delta</button> */}
   </React.StrictMode>
 );
 
